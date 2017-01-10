@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+.vimrc
 
 # ignore eclipse project files
 .cproject
